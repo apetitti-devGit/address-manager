@@ -1,0 +1,168 @@
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Server version:        Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Server built:          Aug 11 2017 10:21:27 UTC
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Server number:         7.0.81.0
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: OS Name:               Windows 10
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: OS Version:            10.0
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Architecture:          amd64
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Java Home:             C:\Program Files\Java\jdk1.8.0_271\jre
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: JVM Version:           1.8.0_271-b09
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: JVM Vendor:            Oracle Corporation
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: CATALINA_BASE:         C:\Users\apetitti\address-manager\application\target\apache-tomee
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: CATALINA_HOME:         C:\Users\apetitti\address-manager\application\target\apache-tomee
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dtomee.remote.support=true
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dopenejb.system.apps=false
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.util.logging.config.file=C:\Users\apetitti\address-manager\application\target\apache-tomee\conf\logging.properties
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -javaagent:C:\Users\apetitti\address-manager\application\target\apache-tomee\lib\openejb-javaagent.jar
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.io.tmpdir=C:\Users\apetitti\address-manager\application\target\apache-tomee\temp
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.endorsed.dirs=C:\Users\apetitti\address-manager\application\target\apache-tomee\endorsed
+nov 28, 2020 12:05:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dcatalina.base=C:\Users\apetitti\address-manager\application\target\apache-tomee
+nov 28, 2020 12:05:45 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dcatalina.home=C:\Users\apetitti\address-manager\application\target\apache-tomee
+nov 28, 2020 12:05:45 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dcatalina.ext.dirs=C:\Users\apetitti\address-manager\application\target\apache-tomee\lib
+nov 28, 2020 12:05:45 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+nov 28, 2020 12:05:45 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -ea
+nov 28, 2020 12:05:45 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMAZIONI: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_271\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\;C:\Program Files (x86)\Common Files\Acronis\FileProtector\;C:\Program Files (x86)\Common Files\Acronis\FileProtector64\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files\IDM Computer Solutions\UEStudio;C:\Maven\apache-maven-3.6.3\bin;C:\Users\apetitti\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.3\bin;;.
+nov 28, 2020 12:05:45 PM org.apache.coyote.AbstractProtocol init
+INFORMAZIONI: Initializing ProtocolHandler ["http-bio-8080"]
+nov 28, 2020 12:05:45 PM org.apache.coyote.AbstractProtocol init
+INFORMAZIONI: Initializing ProtocolHandler ["ajp-bio-8009"]
+nov 28, 2020 12:05:46 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'tomee.remote.support=true'
+nov 28, 2020 12:05:46 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: ********************************************************************************
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: OpenEJB http://tomee.apache.org/
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Startup: Sat Nov 28 12:05:46 CET 2020
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Copyright 1999-2015 (C) Apache OpenEJB/TomEE Project, All Rights Reserved.
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Version: 4.7.5
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Build date: 20170927
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Build time: 12:02
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: ********************************************************************************
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: openejb.home = C:\Users\apetitti\address-manager\application\target\apache-tomee
+nov 28, 2020 12:05:46 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: openejb.base = C:\Users\apetitti\address-manager\application\target\apache-tomee
+nov 28, 2020 12:05:46 PM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFORMAZIONI: Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@4df828d7
+nov 28, 2020 12:05:46 PM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFORMAZIONI: Succeeded in installing singleton service
+nov 28, 2020 12:05:46 PM org.apache.openejb.config.ConfigurationFactory init
+INFORMAZIONI: openejb configuration file is 'C:\Users\apetitti\address-manager\application\target\apache-tomee\conf\tomee.xml'
+nov 28, 2020 12:05:46 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMAZIONI: Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+nov 28, 2020 12:05:46 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMAZIONI: Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+nov 28, 2020 12:05:46 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.system.apps=false'
+nov 28, 2020 12:05:46 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.deployments.classpath=false'
+nov 28, 2020 12:05:46 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating TransactionManager(id=Default Transaction Manager)
+nov 28, 2020 12:05:46 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating SecurityService(id=Tomcat Security Service)
+nov 28, 2020 12:05:47 PM org.apache.openejb.server.ServiceManager initServer
+INFORMAZIONI: Creating ServerService(id=cxf-rs)
+nov 28, 2020 12:05:47 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMAZIONI:   ** Bound Services **
+nov 28, 2020 12:05:47 PM org.apache.openejb.server.SimpleServiceManager printRow
+INFORMAZIONI:   NAME                 IP              PORT  
+nov 28, 2020 12:05:47 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMAZIONI: -------
+nov 28, 2020 12:05:47 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMAZIONI: Ready!
+nov 28, 2020 12:05:47 PM org.apache.catalina.startup.Catalina load
+INFORMAZIONI: Initialization processed in 3799 ms
+nov 28, 2020 12:05:47 PM org.apache.tomee.catalina.OpenEJBNamingContextListener bindResource
+INFORMAZIONI: Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+nov 28, 2020 12:05:47 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating Resource(id=UserDatabase)
+nov 28, 2020 12:05:47 PM org.apache.catalina.core.StandardService startInternal
+INFORMAZIONI: Starting service Catalina
+nov 28, 2020 12:05:47 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMAZIONI: Starting Servlet Engine: Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+nov 28, 2020 12:05:47 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMAZIONI: Deploying web application archive C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT.war
+nov 28, 2020 12:05:47 PM org.apache.tomee.catalina.TomcatWebAppBuilder init
+INFORMAZIONI: ------------------------- localhost -> /
+nov 28, 2020 12:05:47 PM org.apache.openejb.util.JarExtractor extract
+INFORMAZIONI: Extracting jar: C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT.war
+nov 28, 2020 12:05:49 PM org.apache.openejb.util.JarExtractor extract
+INFORMAZIONI: Extracted path: C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT
+nov 28, 2020 12:05:49 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+nov 28, 2020 12:05:53 PM org.apache.openejb.config.ConfigurationFactory configureApplication
+INFORMAZIONI: Configuring enterprise application: C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT
+nov 28, 2020 12:05:54 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMAZIONI: Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+nov 28, 2020 12:05:54 PM org.apache.openejb.config.AutoConfig createContainer
+INFORMAZIONI: Auto-creating a container for bean .Comp2002996234: Container(type=MANAGED, id=Default Managed Container)
+nov 28, 2020 12:05:54 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating Container(id=Default Managed Container)
+nov 28, 2020 12:05:54 PM org.apache.openejb.core.managed.SimplePassivater init
+INFORMAZIONI: Using directory C:\Users\apetitti\address-manager\application\target\apache-tomee\temp for stateful session passivation
+nov 28, 2020 12:05:54 PM org.apache.openejb.config.AppInfoBuilder build
+INFORMAZIONI: Enterprise application "C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT" loaded.
+nov 28, 2020 12:05:55 PM org.apache.openejb.assembler.classic.Assembler createApplication
+INFORMAZIONI: Assembling app: C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT
+nov 28, 2020 12:05:55 PM org.apache.openejb.cdi.CdiBuilder initSingleton
+INFORMAZIONI: Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@4df828d7
+nov 28, 2020 12:05:55 PM org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+INFORMAZIONI: OpenWebBeans Container is starting...
+nov 28, 2020 12:05:55 PM org.apache.webbeans.plugins.PluginLoader startUp
+INFORMAZIONI: Adding OpenWebBeansPlugin : [CdiPlugin]
+nov 28, 2020 12:05:55 PM org.apache.webbeans.plugins.PluginLoader startUp
+INFORMAZIONI: Adding OpenWebBeansPlugin : [OpenWebBeansJsfPlugin]
+nov 28, 2020 12:06:07 PM org.apache.webbeans.config.BeansDeployer deploySingleAnnotatedType
+INFORMAZIONI: Skipping deployment of Class class com.sap.cloud.sdk.cloudplatform.auditlog.ScpCfAuditLogdue to a NoClassDefFoundError: com/sap/xs/audit/api/exception/AuditLogException
+nov 28, 2020 12:06:10 PM org.apache.webbeans.config.BeansDeployer validateInjectionPoints
+INFORMAZIONI: All injection points were validated successfully.
+nov 28, 2020 12:06:10 PM org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+INFORMAZIONI: OpenWebBeans Container has started, it took 15210 ms.
+nov 28, 2020 12:06:10 PM org.apache.openejb.assembler.classic.Assembler createApplication
+INFORMAZIONI: Deployed Application(path=C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT)
+nov 28, 2020 12:06:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMAZIONI: Deployment of web application archive C:\Users\apetitti\address-manager\application\target\apache-tomee\webapps\ROOT.war has finished in 25,883 ms
+nov 28, 2020 12:06:13 PM org.apache.coyote.AbstractProtocol start
+INFORMAZIONI: Starting ProtocolHandler ["http-bio-8080"]
+nov 28, 2020 12:06:13 PM org.apache.coyote.AbstractProtocol start
+INFORMAZIONI: Starting ProtocolHandler ["ajp-bio-8009"]
+nov 28, 2020 12:06:13 PM org.apache.catalina.startup.Catalina start
+INFORMAZIONI: Server startup in 26027 ms
